@@ -1,0 +1,13 @@
+body {
+}
+.heading3 {
+    color: blue;
+    padding: 10px;
+}
+.columndim {
+    float: left;
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+}
+
